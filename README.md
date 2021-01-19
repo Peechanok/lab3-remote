@@ -6,9 +6,9 @@
 ## <br>
 
 
-> <br> *King mongkut's institute of technology ladkrabang* 
+> <br> *<ins>[King mongkut's institute of technology ladkrabang](https://www.kmitl.ac.th)* 
   <br><br>
 ``` sh
-print("Hello world, IT @ KMITL")
+print("Hello Ladkrabang")
 ```
 
