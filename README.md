@@ -4,8 +4,6 @@
 **StudentID** : *61070146*  
 **Name** : *Peechanok Chusombat*  
 ## <br>
-
-
 > <br> *<ins>[IT @ KMITL](https://www.it.kmitl.ac.th)* 
   <br><br>
 ``` sh
